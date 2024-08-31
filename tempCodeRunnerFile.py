@@ -1,0 +1,1 @@
+cv.bitwise_and(img_hsv,img_hsv,mask=blue_mask)
